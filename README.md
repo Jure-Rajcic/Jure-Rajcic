@@ -7,27 +7,16 @@
 - 💼 **Interests:** Keen on new technologies, I craft innovative software solutions, automate tasks, and design SaaS platforms.
 - 🥅 **Goals:** Adept in competitive programming and problem-solving, I aspire to join leading tech giants like FAANG post-graduation.
 
-<table>
-<tr>
-<td valign="top">
+#### ❤️‍🔥 Favourite Tech Stack:
 
-#### 🛠 Tech Stack:
+- **🌐 Web Development:** Vue.js & Tailwind CSS &Spring Boot & PostgreSQL
+- **📱 Mobile Development:** Flutter & Firebase
 
-**🌐 Web Development:**
-- Vue.js & Tailwind CSS &Spring Boot & PostgreSQL
-
-**📱 Mobile Development:**
-- Flutter & Firebase
-
-</td>
-<td valign="top">
-
-![Night Coding](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif)
-
-</td>
-</tr>
-</table>
-
+<p>
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" height=200px />
+  <span width=200px">‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎  </span>
+  <img src="https://i.postimg.cc/nLPf9ckS/Snimka-zaslona-2024-04-25-092338.png" height=200px />
+</p>
 
 #### 🌱 Current Projects:
 - 💡 Actively building multiple SaaS platforms, drawing inspiration from tech gurus like [Marc Lou](https://www.youtube.com/@marc-lou).
