@@ -12,18 +12,18 @@
 - **🌐 Web Development:** Vue.js & Tailwind CSS &Spring Boot & PostgreSQL
 - **📱 Mobile Development:** Flutter & Firebase
 
-<p>
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" height=200px />
-  <span width=200px">‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  </span>
-  <img src="https://i.postimg.cc/nLPf9ckS/Snimka-zaslona-2024-04-25-092338.png" height=200px />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" height="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.postimg.cc/nLPf9ckS/Snimka-zaslona-2024-04-25-092338.png" height="200"/>
 </p>
-
-#### 🌱 Current Projects:
-- 💡 Actively building multiple SaaS platforms, drawing inspiration from tech gurus like [Marc Lou](https://www.youtube.com/@marc-lou).
 
 #### 📫 How to Reach Me:
 - 📧 Email: [jure.rajcic.work@gmail.com](mailto:jure.rajcic.work@gmail.com)
 - 📄 **CV:** Check out my resume [here](https://smallpdf.com/file#s=871d23a8-5382-4974-9b03-a59885228303). Interested in collaborating? I'm ready to work globally.
+
+#### 🌱 Current Projects:
+- 💡 Actively building multiple SaaS platforms, drawing inspiration from tech gurus like [Marc Lou](https://www.youtube.com/@marc-lou).
 
 #### ⚡ Fun Fact:
 - 🗽 Embarked on a Work & Travel program in the USA, embracing the culture and mastering the language for a competitive edge in interviews (steering clear of my Russian-English accent!).
