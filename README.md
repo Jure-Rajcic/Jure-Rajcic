@@ -3,13 +3,13 @@
 ![Profile Banner](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
 #### 🏫 About Me:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=656BF7&random=false&width=435&lines=Full-Stack+Developer;Student;Entrepreneur)](https://git.io/typing-svg)
 - 🎓 **Education:** I'm a dedicated student at FER University in Zagreb, Croatia, aiming for a master's degree in software engineering.
 - 💼 **Interests:** Keen on new technologies, I craft innovative software solutions, automate tasks, and design SaaS platforms.
-- 🥅 **Goals:** Adept in competitive programming and problem-solving, I aspire to join leading tech giants like FAANG post-graduation.
 
 #### ❤️‍🔥 Favourite Tech Stack:
 
-- **🌐 Web Development:** Vue.js & Tailwind CSS &Spring Boot & PostgreSQL
+- **🌐 Web Development:** Angular & Tailwind & Firebase
 - **📱 Mobile Development:** Flutter & Firebase
 
 <p align="center">
@@ -23,11 +23,7 @@
 - 📄 **CV:** Check out my resume [here](https://smallpdf.com/file#s=871d23a8-5382-4974-9b03-a59885228303). Interested in collaborating? I'm ready to work globally.
 
 #### 🌱 Current Projects:
-- 💡 Actively building multiple SaaS platforms, drawing inspiration from tech gurus like [Marc Lou](https://www.youtube.com/@marc-lou).
+- 💡 Actively building multiple SaaS, B2B, B2C platforms.
 
-#### ⚡ Fun Fact:
-- 🗽 Embarked on a Work & Travel program in the USA, embracing the culture and mastering the language for a competitive edge in interviews (steering clear of my Russian-English accent!).
 
-#### 🔗 Some of My SaaS Projects:
-- 🎨 [Custom Color Book](http://customcolorbook.com)
 
